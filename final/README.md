@@ -1,3 +1,5 @@
+#For the Full Acess please download the zip and do npm start in computer(!Important)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
